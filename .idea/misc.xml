@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hamburger/app/src/main/res/drawable/backgroun_catgory.xml" value="0.23914473684210527" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hamburger/app/src/main/res/drawable/background_white.xml" value="0.23914473684210527" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hamburger/app/src/main/res/drawable/cart_background.xml" value="0.23914473684210527" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hamburger/app/src/main/res/drawable/grey_bar.xml" value="0.23914473684210527" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hamburger/app/src/main/res/drawable/grey_btn_blackground.xml" value="0.23914473684210527" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hamburger/app/src/main/res/drawable/orange_background.xml" value="0.23914473684210527" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hamburger/app/src/main/res/drawable/search_edit_background.xml" value="0.23914473684210527" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hamburger/app/src/main/res/drawable/viewholder_cart.xml" value="0.23914473684210527" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hamburger/app/src/main/res/drawable/white_button.xml" value="0.23914473684210527" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hamburger/app/src/main/res/drawable/white_recommended_btn.xml" value="0.23914473684210527" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hamburger/app/src/main/res/drawable/yellow_bar.xml" value="0.23914473684210527" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hamburger/app/src/main/res/drawable/yellow_btn_background.xml" value="0.23914473684210527" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hamburger/app/src/main/res/layout/activity_cart.xml" value="0.22894736842105262" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hamburger/app/src/main/res/layout/activity_intro.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hamburger/app/src/main/res/layout/activity_intro1.xml" value="0.22894736842105262" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hamburger/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hamburger/app/src/main/res/layout/activity_main2.xml" value="0.22894736842105262" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hamburger/app/src/main/res/layout/activity_show_detail.xml" value="0.22" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hamburger/app/src/main/res/layout/activity_show_detal.xml" value="0.22894736842105262" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hamburger/app/src/main/res/layout/viewholder_cart.xml" value="0.5" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hamburger/app/src/main/res/layout/viewholder_category.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hamburger/app/src/main/res/layout/viewholder_categoty.xml" value="0.22894736842105262" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hamburger/app/src/main/res/layout/viewholder_recommended.xml" value="0.22894736842105262" />
+        <entry key="..\:/Users/user/Desktop/android/app/src/main/res/layout/activity_cart.xml" value="0.2444078947368421" />
+        <entry key="..\:/Users/user/Desktop/android/app/src/main/res/layout/activity_intro.xml" value="0.2444078947368421" />
+        <entry key="..\:/Users/user/Desktop/android/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/user/Desktop/android/app/src/main/res/layout/viewholder_category.xml" value="0.2444078947368421" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
